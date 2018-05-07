@@ -261,9 +261,9 @@ section.row {
 }
 
 /* ------------ Header ------------ */
-.headerstrip {
+..headerstrip {
 	height: 72px;
-	background-color: #00a1cb;
+	background-color: #FF9800;
 }
 .nav_expand {
 	position: absolute;
@@ -3546,7 +3546,7 @@ paypal pro styles
 	}
 
 	#banner_slides .oneByOne_item span.txt1 {
-		font-size: 20px;
+		font-size: 39px;
 	}
 
 	#banner_slides .oneByOne_item span.txt2 {
