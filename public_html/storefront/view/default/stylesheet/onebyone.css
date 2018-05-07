@@ -142,8 +142,8 @@ font:13px 'PT Sans', Arial, Tahoma, Verdana, Sans-Serif;color:#393939;
 #banner_slides .oneByOne_item span.blue {background:#3fa3c9;color:#fff;padding:6px 17px;margin-bottom:5px;}
 #banner_slides .oneByOne_item span.txt_right2 {margin-left:605px;}
 #banner_slides .oneByOne_item span.short {width:290px;margin-top:20px;}
-
-.banner_container .oneByOneSlide { background:#00A1CB url(../image/banner_shadow.png) center top no-repeat; }
+.banner_container #banner_slides .oneByOne_item span.txt1, .banner_container #banner_slides .oneByOne_item span.txt2, .banner_container #banner_slides .oneByOne_item span.txt3 {color: #3F51B5;}
+.banner_container .oneByOneSlide { background: #aec592 url(../image/banner_shadow.png) center top no-repeat; }
 .banner_container #banner_slides .oneByOne_item span.txt1, .banner_container #banner_slides .oneByOne_item span.txt2, .banner_container #banner_slides .oneByOne_item span.txt3 {color:#fff;}
 .banner_container #banner_slides .oneByOne_item span.txt1 {margin-top:60px;}
 .banner_container #banner_slides .oneByOne_item span.txt1.blue {margin-top:46px;}
